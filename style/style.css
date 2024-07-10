@@ -117,7 +117,6 @@ nav{
 .web-dev-container{
     width: 1140px;
     height: 1395px;
-    border: 2px solid red;
     margin: 0 auto;
     margin-top: 74px;
     border-radius: 16px;
@@ -131,7 +130,6 @@ nav{
 .web-dev-items{
     width: 946px;
     height: 1235px;
-    border: 2px solid blue;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -153,13 +151,11 @@ nav{
 .cause{
     width: 946px;
     height: 336px;
-    border: 2px solid green;
 }
 .web-dev-items .box-1{
     width: 850px;
     height: 240px;
     margin: 48px;
-     border: 2px solid red;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -169,7 +165,6 @@ nav{
 .box-1-text{
 width: 477px;
 height: 220px;
-border: 2px solid black;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
@@ -194,7 +189,6 @@ align-items: start;
 .box-1-img{
     width: 274.17px;
     height: 240px;
-    border: 2px solid red ;
 }
 .box-1-img img{
     width: 259.56px;
@@ -205,7 +199,6 @@ align-items: start;
     width: 850px;
     height: 240px;
     margin: 48px;
-    border: 2px solid red;
    display: flex;
    align-items: center;
    justify-content: space-between;
@@ -215,7 +208,6 @@ align-items: start;
 .box-2-text{
     width: 477px;
     height: 220px;
-    border: 2px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -239,7 +231,7 @@ align-items: start;
 }
 .box-2-img{
     width: 240px;
-    height: 240px;border: 2px solid red;
+    height: 240px;
 }
 .box-2-img img{
     width: 223.2px;
@@ -249,7 +241,6 @@ align-items: start;
     width: 850px;
     height: 240px;
     margin: 48px;
-    border: 2px solid red;
    display: flex;
    align-items: center;
    justify-content: space-between;
@@ -259,7 +250,6 @@ align-items: start;
 .box-3-text{
     width: 477px;
     height: 220px;
-    border: 2px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -282,12 +272,11 @@ align-items: start;
 }
 .box-3-img{
     width: 240px;
-    height: 240px;border: 2px solid red;
+    height: 240px;
 }
 .box-3-img img{
     width: 206.4px;
     height: 187.32px;
-    border: 2px solid red;
     margin-left: 16px;
     margin-top: 26px;
 
@@ -502,7 +491,7 @@ align-items: start;
     justify-content: center;
     align-items: center;
     border-radius: 16px;
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(../assets/handshake.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

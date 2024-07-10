@@ -143,7 +143,6 @@ nav{
     align-items: center;
     justify-content: space-between;
     text-align: center;
-    border: 2px solid;
 }
 .web-dev-text h1, .head{
     font-size: 32px;
